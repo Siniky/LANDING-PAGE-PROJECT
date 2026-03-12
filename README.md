@@ -8,3 +8,8 @@
 - Travel Quote.
 - Footer
 # Live Demo with link
+
+### Screenshots
+
+
+![Landing Page Preview](images/preview.png)
